@@ -28,7 +28,7 @@
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Technology I use</b></h2>
+<h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Learning Something</b></h2>
 
 <br>
 
@@ -36,9 +36,7 @@
 
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-   ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
    ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - **Website**
@@ -61,7 +59,7 @@
 
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![JetBrains](https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-   ![Sublime](https://img.shields.io/badge/Sublime-202124.svg?style=for-the-badge&logo=sublime-text&logoColor=orange)
+   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
