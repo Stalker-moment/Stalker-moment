@@ -69,6 +69,12 @@
    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
+<h3>🎶 Vibing to</h3>
+<a href="https://github.com/Stalker-moment/Spotify-Readme">
+  <img src="https://tthn0.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+
+
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
