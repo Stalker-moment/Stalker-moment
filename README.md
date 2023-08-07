@@ -93,7 +93,7 @@ let Tierkun = new Me("Profile");
      <img src="https://github-readme-stats.vercel.app/api?username=Stalker-moment&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="Stalker-moment"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stalker-moment&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="Stalker-moment"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stalker-moment&layout=compact&theme=synthwave" width="450"  alt="Stalker-moment"/>
-     <img src="https://github-profile-trophy.vercel.app/?username=Stalker-moment&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="Stalker-moment"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Stalker-moment&title=MultipleLang,Repositories,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="Stalker-moment"/>
    </a>
 </div>
 
