@@ -41,49 +41,37 @@ let Tierkun = new Me("Profile");
 
 <h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Learning Something</b></h2>
 
+<div align="center">
 <br>
-
-- **Language**
-
+   
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-- **Website**
-
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-- **Database**
-
    ![Prisma](https://img.shields.io/badge/Prisma-0b0045?style=for-the-badge&logo=prisma&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-2e2d2b?style=for-the-badge&logo=mongodb&logoColor=green)
-
-- **Software & Tools**
-
    ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
-
-- **IDE**
-
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![JetBrains](https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
    ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-- **Cloud Platfrom**
-  
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
    ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+</div>
 
-<h3>🎶 Vibing to</h3>
-<a href="https://github.com/Stalker-moment/">
-  <img src="https://spotify-readme-delta.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
+<div align="center">
+   <h3>🎶 Vibing to</h3>
+   <a href="https://github.com/Stalker-moment/">
+     <img src="https://spotify-readme-delta.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+   </a>
+</div>
+
 
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
