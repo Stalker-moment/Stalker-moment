@@ -66,7 +66,7 @@ let Tierkun = new Me("Profile");
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![JetBrains](https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+   <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/></a>
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
    ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
