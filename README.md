@@ -71,7 +71,7 @@
 
 <h3>🎶 Vibing to</h3>
 <a href="https://github.com/Stalker-moment/Spotify-Readme">
-  <img src="https://tthn0.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://spotify-readme-delta.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 
 
