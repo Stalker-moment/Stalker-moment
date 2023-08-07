@@ -23,8 +23,19 @@
 
 <h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
-- I'd like to do project that has relation to anime. 👻
-- A newbie to programming, but trying to get the hang of it.
+```javascript
+class Me {
+  pronouns = "He" || "Him";
+  skills = ["IoT", "Robotic", "Databases", "Git", "Linux", "REST APIs"];
+  constructor(currentlyLearning) {
+    this.skills.push(currentlyLearning);
+  }
+  get education() {
+    return "SMK SMTI YOGYAKARTA majoring in mechatronics";
+  }
+}
+let Tierkun = new Me("Profile");
+```
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
