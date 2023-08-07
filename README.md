@@ -45,8 +45,8 @@ let Tierkun = new Me("Profile");
 <div align="center">
 <br>
    
-   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></a>
+   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
    ![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,9 +65,9 @@ let Tierkun = new Me("Profile");
    ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   ![JetBrains](https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains"/></a>
    <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/></a>
-   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+   <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/></a>
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
    ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
