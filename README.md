@@ -81,7 +81,7 @@ let Tierkun = new Me("Profile");
 
 
 <h3>🎶 Vibing to</h3>
-<a href="https://github.com/Stalker-moment/Spotify-Readme">
+<a href="https://github.com/Stalker-moment/">
   <img src="https://spotify-readme-delta.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 
