@@ -1,5 +1,4 @@
-<p align='center'><a href="https://github.com/Stalker-moment"><img height="200" src="https://ahegao.b-cdn.net/wp-content/uploads/2023/05/Goddess-Cafe-Terrace-Episode-7-Akane-Tearful-Plea-BM.gif"></a>&nbsp;&nbsp;</p>
-
+<p align='center'><a href="https://github.com/Stalker-moment"><img height="200" src="https://i.ibb.co/pbLFH1q/bug-nobg.gif"></a>&nbsp;&nbsp;</p>
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">I'm <b>Tierkun</b> (16 y.o) ! 😎</h3>
