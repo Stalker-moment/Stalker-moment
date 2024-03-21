@@ -87,12 +87,19 @@ let Tierkun = new Me("Profile");
 
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
 
+###
+
 <div align="center">
-   <a href="https://github.com/Stalker-moment/">
-     <img src="https://github-readme-stats.vercel.app/api?username=Stalker-moment&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="Stalker-moment"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stalker-moment&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="Stalker-moment"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stalker-moment&layout=compact&theme=synthwave" width="450"  alt="Stalker-moment"/>
-     <img src="https://github-profile-trophy.vercel.app/?username=Stalker-moment&title=MultipleLang,Repositories,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="Stalker-moment"/>
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=stalker-moment&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=stalker-moment&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stalker-moment&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=stalker-moment&title=MultipleLang,Repositories,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="stalker-moment"/>
+</div>
+
+###
 
