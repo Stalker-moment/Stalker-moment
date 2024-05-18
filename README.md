@@ -77,9 +77,7 @@ let Tierkun = new Me("Profile");
 
 <div align="center">
    <h3>🎶 Vibing to</h3>
-   <a href="https://api.aqualifier.cloud/geturl">
      <img src="https://spotify-new-read-me.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Now Playing">
-   </a>
 </div>
 
 
