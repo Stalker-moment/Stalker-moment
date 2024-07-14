@@ -93,7 +93,7 @@ let Tierkun = new Me("Profile");
   <img src="https://ytnow.tierkun.my.id/api/spotify?background_color=0d1117&border_color=ffffff" alt="Currently Playing">
 </div>
 
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
 
