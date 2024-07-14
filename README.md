@@ -78,10 +78,14 @@ let Tierkun = new Me("Profile");
 <div align="center">
   <h3>🎶 Vibing to (Spotify)</h3>
   <div>
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://spotifynow.tierkun.my.id/" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    </a>
   </div>
   <br>
-  <img src="https://spotify-new-read-me.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
+ <a href="https://spotifynow.tierkun.my.id/" target="_blank">
+    <img src="https://spotify-new-read-me.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
+  </a>
 </div>
 
 <div align="center">
