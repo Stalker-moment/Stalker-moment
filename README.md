@@ -87,12 +87,12 @@ let Tierkun = new Me("Profile");
 <div align="center">
   <h3>🎶 Vibing to (YT Music)</h3>
   <div>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ytnow.tierkun.my.id/" target="_blank">
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://playnow.tierkun.my.id/" target="_blank">
       <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
     </a>
   </div>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ytnow.tierkun.my.id/" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://playnow.tierkun.my.id/" target="_blank">
     <img src="https://ytnow.tierkun.my.id/api/spotify?background_color=0d1117&border_color=ffffff" alt="Currently Playing">
   </a>
 </div>
