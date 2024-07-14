@@ -76,15 +76,22 @@ let Tierkun = new Me("Profile");
 </div>
 
 <div align="center">
-   <h3>🎶 Vibing to (Spotify)</h3>
-     <img src="https://spotify-new-read-me.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff">
+  <h3>🎶 Vibing to (Spotify)</h3>
+  <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </div>
+  <br>
+  <img src="https://spotify-new-read-me.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
 </div>
 
 <div align="center">
-   <h3>🎶 Vibing to (YT Music)</h3>
-     <img src="https://ytnow.tierkun.my.id/api/spotify?background_color=0d1117&border_color=ffffff">
+  <h3>🎶 Vibing to (YT Music)</h3>
+  <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
+  </div>
+  <br>
+  <img src="https://ytnow.tierkun.my.id/api/spotify?background_color=0d1117&border_color=ffffff" alt="Currently Playing">
 </div>
-
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
