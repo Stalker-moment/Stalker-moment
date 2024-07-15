@@ -84,7 +84,7 @@ let Tierkun = new Me("Profile");
   </div>
   <br>
  <a href="https://spotifynow.tierkun.my.id/" target="_blank">
-    <img src="https://spotify-new-read-me.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
+    <img src="https://spotifyreadme.tierkun.my.id/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
   </a>
 </div>
 
