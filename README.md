@@ -1,7 +1,7 @@
 <p align='center'><a href="https://github.com/Stalker-moment"><img height="200" src="https://i.ibb.co/pbLFH1q/bug-nobg.gif"></a>&nbsp;&nbsp;</p>
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I'm <b>Tierkun</b> (16 y.o) ! 😎</h3>
+<h3 align="center">I'm <b>Tierkun</b> (17 y.o) ! 😎</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
